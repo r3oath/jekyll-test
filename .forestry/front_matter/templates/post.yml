@@ -12,3 +12,5 @@ fields:
 - type: tag_list
   name: categories
   label: Categories
+pages:
+- _posts/cool-integrations!.md
